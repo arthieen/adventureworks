@@ -1,4 +1,5 @@
 # adventureworks
+Google Analytics sample dataset for BigQuery
 -- Query 01: Calc Quantity of items, Sales value & Order quantity by each Subcategory in L12M
 SELECT 
       FORMAT_DATE('%b %Y', s.ModifiedDate) month
